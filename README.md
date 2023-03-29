@@ -7,8 +7,9 @@
  - Explain the basics and best practices. Skillbuilding through making. No dead ends. Anticipate and avert common frustrations.
  
  ---
- Insired by the work of 
+ Inspired by the work of 
  - [Becky Stern](https://www.youtube.com/channel/UCsI_41SZafKtB5qE46WjlQQ)
- -
+ - [Shara Woodshop Diaries](https://www.youtube.com/c/SharaWoodshopDiaries?app=desktop)
+ - [Steve Ramsey Woodworking for Mere Mortals](https://www.youtube.com/@SteveRamsey)
  
  
