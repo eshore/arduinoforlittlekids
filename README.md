@@ -5,6 +5,8 @@
  - get feedback from experts
  - build one hardware thing with your arduino, then this repo will help you out with a dozen software options that do different things with that hardware
  - Explain the basics and best practices. Skillbuilding through making. No dead ends. Anticipate and avert common frustrations.
+ - Unblock myself faster by asking for help
+ - Make my mission clear so others can quickly decide if they want to help
  
  ---
  Inspired by the work of 
